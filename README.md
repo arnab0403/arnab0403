@@ -49,8 +49,8 @@ Whenever I go tech mode, I pick up:
 
 ### 📈 GitHub Stats  
 
-![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnabdutta&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabdutta&layout=compact&theme=radical)  
+![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnabdutta0403&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabdutta0403&layout=compact&theme=radical)  
 
 ---
 
