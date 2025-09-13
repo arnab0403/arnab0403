@@ -42,12 +42,6 @@ Whenever I go tech mode, I pick up:
 
 ---
 
-### 🤹 Fun Facts
-- 🔧 “Works on my machine” is my default QA strategy.  
-- 🐛 I don’t make bugs… I create **undocumented features**.  
-- 🥤 Runs on coffee + late-night debugging sessions.  
-
----
 
 ### 📈 GitHub Stats  
 
