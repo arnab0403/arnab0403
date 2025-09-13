@@ -15,9 +15,9 @@
 
 🍵 **Socialite**  
 *A social media app built exclusively for college students*  
-> 🎓 Here you can gossip about teachers 👀 (and their *secrets* 🤫)…  
-> but don’t worry, without a **student ID** no outsider can sneak in — so you’re safe! 😆  
 Tech: **JSP, Servlet, HTML, CSS, JS, OracleDB**  
+>🎓 Here you can gossip about teachers 👀 (and their *secrets* 🤫)…  
+>but don’t worry, without a **student ID** no outsider can sneak in — so you’re safe! 😆  
 
 🍽️ **DineQ**  
 *A restaurant seat booking app (no more “table for two” awkward waits)*  
