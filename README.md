@@ -5,7 +5,7 @@
 ---
 
 ### 😎 About Me
-- 💻 I build **cool stuff for the web** (sometimes it even works on the first try).  
+- 💻 I build **cool stuff for the web** (90% debugging, 10% coffee drinking).
 - 🌐 Focused on **Frontend**, but I can wrangle the backend when it misbehaves.  
 - 🛠️ Worked on multiple projects that made my laptop cry but survive:  
 
@@ -15,6 +15,8 @@
 
 🍵 **Socialite**  
 *A social media app built exclusively for college students*  
+> 🎓 Here you can gossip about teachers 👀 (and their *secrets* 🤫)…  
+> but don’t worry, without a **student ID** no outsider can sneak in — so you’re safe! 😆  
 Tech: **JSP, Servlet, HTML, CSS, JS, OracleDB**  
 
 🍽️ **DineQ**  
