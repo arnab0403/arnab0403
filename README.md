@@ -51,12 +51,12 @@ Whenever I go tech mode, I pick up:
 
 ![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnab0403&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnab0403&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnabdutta&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnab0403&theme=radical)
 
 ---
 
 ### 📫 Let’s Connect  
-- 💼 [LinkedIn](https://linkedin.com) *(replace with your link)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/arnab-dutta-933a142b6/) 
 - 🌍 Portfolio: Coming soon (because I’m too busy coding cool stuff 😉)  
 
 ---
