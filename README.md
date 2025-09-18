@@ -7,8 +7,8 @@
 ### ⚡ Skills
 
 * **Frontend:** React, HTML, CSS, Tailwind, Bootstrap
-* **Backend:** Node.js, Express, Spring Boot, JSP/Servlets
-* **Databases:** MongoDB, OracleDB
+* **Backend:** Node.js, Express
+* **Databases:** MongoDB, OracleDB, Mongo
 * **Languages:** JavaScript, Java, SQL
 * **Tools:** Git/GitHub, Firebase, REST APIs
 
