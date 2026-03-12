@@ -3,7 +3,6 @@
 🚀 **Full Stack Developer**
 
 I love building scalable web applications and exploring backend architecture.  
-Currently focused on **MERN stack, system design, and backend engineering.**
 
 ---
 
