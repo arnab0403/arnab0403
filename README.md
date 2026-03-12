@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Arnab
 
-🚀 **Full Stack Developer | Frontend Enthusiast**
+🚀 **Full Stack Developer**
 
 ---
 
