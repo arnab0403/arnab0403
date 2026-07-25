@@ -2,18 +2,7 @@
 
 🚀 **Full Stack Developer**
 
-I love building scalable web applications and exploring backend architecture.  
-
----
-
-# 📚 Currently Learning
-
-- Advanced Node.js
-- Next.js
-- System Design
-- Scalable Backend Architecture
-- Redis & Caching
-
+Idea Build Release   
 ---
 
 # ⚡ Tech Stack
